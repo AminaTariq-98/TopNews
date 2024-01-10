@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Herman Mostert",
+            "title": "5 talking points | SA v Afghanistan: Proteas' chasing jitters calmed, somewhat ...",
+            "description": "Herman Mostert highlights FIVE talking points after South Africa's five-wicket Cricket World Cup win over Afghanistan in Ahmedabad.",
+            "url": "https://www.news24.com/sport/cricket/worldcup/5-talking-points-sa-v-afghanistan-proteas-chasing-jitters-calmed-somewhat-20231111",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9562/acce27ed282c4624b6c9e0098b8caf86.jpg",
+            "publishedAt": "2023-11-11T19:33:51",
+            "content": "Rassie, Phehlukwayo calm SA's chasing jitters\r\nChasing 245 for victory, the Proteas found themselves in a tricky situation at 182/5 when Andile Phehlukwayo joined Rassie van der Dussen at the crease.… [+69 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Herman Mostert",
+            "title": "Bavuma hamstring strain shows 'improvement', but Proteas skipper continues to be 'monitored'",
+            "description": "Cricket SA confirmed on Saturday that Proteas captain Temba Bavuma sustained a right hamstring strain against Afghanistan.",
+            "url": "https://www.news24.com/sport/cricket/worldcup/proteas-skipper-bavuma-has-hamstring-strain-will-be-monitored-and-managed-by-medical-team-20231111",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9825/6a51d31023f2496ab0c1616d21ed3781.jpg",
+            "publishedAt": "2023-11-11T17:19:13",
+            "content": "<ul><li>Cricket SA confirmed on Saturday that Proteas captain Temba Bavuma sustained a right hamstring strain against Afghanistan.</li><li>The Proteas camp said Bavuma had shown improvement overnight… [+1722 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Andrew McMurtry",
+            "title": "Brutal Maxwell development strikes Aussies",
+            "description": "Welcome to news.com.au’s live coverage of Australia’s World Cup contest against Bangladesh from Maharashtra Cricket Association Stadium.",
+            "url": "https://www.news.com.au/sport/cricket/australia-vs-bangladesh-live-updates-worrying-glenn-maxwell-update/news-story/8ed59fe432273b55eecd42120f517b7c",
+            "urlToImage": "https://content.api.news/v3/images/bin/d44915fa122088c578065c24a4d7a7ef",
+            "publishedAt": "2023-11-11T04:14:00Z",
+            "content": "Welcome to news.com.au’s live coverage of Australia’s World Cup contest against Bangladesh from Maharashtra Cricket Association Stadium.\r\nThe Aussies locked up a semi-final spot following their victo… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Shayna Jacobs, Mark Berman",
+            "title": "Trump's defense at N.Y. fraud trial begins with Donald Trump Jr. testimony - The Washington Post",
+            "description": "Lawyers for Donald Trump, his company and others began their fraud trial defense arguments with testimony from Donald Trump Jr.",
+            "url": "https://www.washingtonpost.com/politics/2023/11/13/trump-new-york-fraud-trial/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7M2DY43LAVTNFN7JISXUSAYCNQ.jpg&w=1440",
+            "publishedAt": "2023-11-13T16:21:14Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nNEW YORK The defense team representing Donald Trump in a civil trial accusing him of fraud began presenting its case Monday, opening w… [+2703 chars]"
+        }
+    ]
+}
